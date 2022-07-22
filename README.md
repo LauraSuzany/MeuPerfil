@@ -1,11 +1,10 @@
 ### Olá eu sou Laura Suzany 👋
 
 
-- 🔭 Atualmete trabalho com Back-end Java
-- 🌱 Estudando framework spring boot
-- 🗺️ Eu moro no Brasil
-- ✨ Recem formada no curso de ciência da computação
-- 👔 Desenvolvedora Jr
+- Atualmete trabalho com Back-end
+-  Eu moro no Brasil
+-  Formada no curso de ciência da computação
+-  Desenvolvedora 
 
 <div align="center">
   <a href="https://github.com/LauraSuzany">
@@ -13,12 +12,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraSuzany&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ##
+##
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202111/338224_t2kSXkoa.png">
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
    
 </div>
   
