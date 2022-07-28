@@ -2,7 +2,6 @@
 
 
 - Atualmete trabalho com Back-end
--  Eu moro no Brasil
 -  Formada no curso de ciência da computação
 -  Desenvolvedora 
 
