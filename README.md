@@ -1,7 +1,7 @@
-### Olá eu sou Laura Suzany 👋
+### Olá, Me chamo Laura Suzany 👋
 
 
-- Atualmete trabalho com Back-end
+-  Atualmete trabalho com Back-end
 -  Formada no curso de ciência da computação
 -  Desenvolvedora 
 
