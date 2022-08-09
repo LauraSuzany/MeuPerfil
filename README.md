@@ -1,9 +1,9 @@
-### Olá, Me chamo Laura Suzany 👋
+### Olá, seja bem vindo(a) ao meu github 👋
 
 
--  Atualmete trabalho com Back-end
+-  Os repositórios presentes aqui não definem todo o meu conhecimento e sim as tags que você está vendo abaixo aqui no meu README😊
 -  Formada no curso de ciência da computação
--  Desenvolvedora 
+-  Desenvolvedora backend 👩‍💻
 
 <div align="center">
   <a href="https://github.com/LauraSuzany">
@@ -34,9 +34,9 @@
    
 </div>
   
-##
+#### Veja as minhas redes sociais e vamos compartilhar conhecimento!
  
-  <div>
+<div>
 <a href="Colocar O insta aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.com/channels/@LauraSuzany#8064/993357809431355444" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/laurasuzany-programadorajava/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
