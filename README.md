@@ -3,6 +3,7 @@
 
 -  Os repositórios presentes aqui não definem todo o meu conhecimento e sim as tags que você está vendo abaixo aqui no meu README😊
 -  Formada no curso de ciência da computação
+-  Curso de inglês completo 🇺🇸
 -  Desenvolvedora backend 👩‍💻
 
 <div align="center">
