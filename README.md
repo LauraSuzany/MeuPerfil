@@ -1,10 +1,7 @@
 ### Olá, seja bem vindo(a) ao meu github 👋
 
 
--  Os repositórios presentes aqui não definem todo o meu conhecimento e sim as tags que você está vendo abaixo aqui no meu README😊
--  Formada no curso de ciência da computação
--  Curso de inglês completo 🇺🇸
--  Desenvolvedora backend 👩‍💻
+-  Atualmente sou desenvolvedora Back-end. Adoro um bom desafio, pois me lembra a faze daquele jogo a qual eu desejo tanto zerar e a cada conquista meu peito se enche de alegria, erros e bugs são os melhores "cursos" que alguém poderia ter, o segundo melhor e ajudar um colega em prantos "rsrsrs", pois a "mente professor" é ativada. O meu pouco tempo de formada é compensado pelo empenho que tenho ao receber uma nova missão. ☕
 
 <div align="center">
   <a href="https://github.com/LauraSuzany">
