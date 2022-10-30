@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo(a) ao meu github 👋
 
 
--  Atualmente sou desenvolvedora Back-end. Adoro um bom desafio, pois me lembra a faze daquele jogo a qual eu desejo tanto zerar e a cada conquista meu peito se enche de alegria, erros e bugs são os melhores "cursos" que alguém poderia ter, o segundo melhor e ajudar um colega em prantos "rsrsrs", pois a "mente professor" é ativada. O meu pouco tempo de formada é compensado pelo empenho que tenho ao receber uma nova missão. ☕
+-  Atualmente sou desenvolvedora Back-end. Adoro um bom desafio, pois me lembra a fase daquele jogo a qual eu desejo tanto zerar, erros e bugs são os melhores "cursos" que alguém poderia ter, o segundo melhor e ajudar um colega em prantos "rsrsrs". O meu pouco tempo de formada é compensado pelo empenho que tenho ao receber uma nova missão. ☕
 
 <div align="center">
   <a href="https://github.com/LauraSuzany">
@@ -31,11 +31,15 @@
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
    
 </div>
+
+<div align="center">
   
-#### Veja as minhas redes sociais e vamos compartilhar conhecimento!
- 
-<div>
-<a href="Colocar O insta aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+#### Formas de contato!
+  
+</div>
+<div align="center">
+  
+<a href="laurasuzany1705@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://discord.com/channels/@LauraSuzany#8064/993357809431355444" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/laurasuzany-programadorajava/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
